@@ -41,9 +41,9 @@ Welcome to the **Contract Combat Smart Contract Writing Competition** hosted by 
 
 ## Prizes
 - Prizes will be awarded to the top entries based on the evaluation criteria. Additionally, bonus points will be given to entries that demonstrate exceptional creativity and originality.
-  - First Prize: ₹1500
-  - Second Prize: ₹1000
-  - Third Prize: ₹500
+  - First Prize: Worth ₹1500
+  - Second Prize: Worth ₹1000
+  - Third Prize: Worth ₹500
 
 ## Submission Guidelines
 - Participants are required to follow these guidelines for their submissions:
