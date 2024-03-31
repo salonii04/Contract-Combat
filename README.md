@@ -41,9 +41,9 @@ Welcome to the **Contract Combat Smart Contract Writing Competition** hosted by 
 
 ## Prizes
 - Prizes will be awarded to the top entries based on the evaluation criteria. Additionally, bonus points will be given to entries that demonstrate exceptional creativity and originality.
-  - First Prize: ₹1500
-  - Second Prize: ₹1000
-  - Third Prize: ₹500
+  - First Prize: Worth ₹1500
+  - Second Prize: Worth ₹1000
+  - Third Prize: Worth ₹500
 
 ## Submission Guidelines
 - Participants are required to follow these guidelines for their submissions:
@@ -58,7 +58,7 @@ Welcome to the **Contract Combat Smart Contract Writing Competition** hosted by 
   - **Folder Structure:** Organize your submission folder with clear and intuitive structure. Ensure that all necessary files, including the smart contract code and explanation file, are included in the folder.
 
 ## Important Dates
-- **Submission Deadline:** 1st April<br>
+- **Submission Deadline:** 2nd April<br>
   Please ensure that your submission is made before the specified deadline to be eligible for evaluation.
 
 ## Code of Conduct
@@ -70,5 +70,5 @@ Welcome to the **Contract Combat Smart Contract Writing Competition** hosted by 
 ## Conclusion
 We look forward to receiving your submissions and witnessing the innovative smart contracts you develop for the **Contract Combat Smart Contract Writing Competition**.<br>
 Best of luck to all participants!<br>
-For further inquiries or assistance, please reach out to the organizers at [iit2022025@iiitl.ac.in](mailto:iit2022025@iiitl.ac.in).<br>
+For further inquiries or assistance, do reach us out at [iit2022025@iiitl.ac.in](mailto:iit2022025@iiitl.ac.in).<br>
 Organized by GDSC Blockchain Wing
